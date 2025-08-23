@@ -1,0 +1,39 @@
+.card {
+  width: 200px;
+  border: 2px solid black;
+  border-radius: 25px;
+  padding: 10px;
+  margin: 10px;
+}
+
+img {
+  width: 100%;
+  border-radius: 25px;
+}
+h1{
+  color:green;
+}
+
+h2 {
+  color: #0c0819;
+}
+h3{
+  color:palevioletred;
+}
+h5{
+  color:blue;
+}
+
+span {
+  color: #9d6f24;
+}
+
+h4 {
+  text-align: right;
+  color: #fb12b9;
+}
+
+#pets {
+  display: flex;
+  justify-content: space-evenly;
+}
