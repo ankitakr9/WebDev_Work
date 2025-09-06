@@ -1,0 +1,9 @@
+h1{
+    color: purple;
+}
+button:hover{
+    color: rgb(26, 151, 21);
+}
+body{
+    text-align: center;
+}
