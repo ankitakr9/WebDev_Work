@@ -1,0 +1,42 @@
+#main{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    border: 2px solid lightseagreen;
+    display: flex;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: space-evenly; 
+    flex-wrap: wrap;
+    
+    
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+    border: 2px solid black;
+    font-size: 50px;
+    text-align: center;
+    border-radius: 8px;
+
+}
+#nav{
+    background-color: palevioletred;
+    display: flex;
+    height: 50px;
+    width: 900px;
+    border: 2px solid lightseagreen;
+    border-radius: 10px;
+    align-content: center;
+    justify-content: flex-start;
+    
+}
+.navbar{
+    display: flex;
+    height:50px ;
+    width: 80px;
+    font-size: 24px;
+    margin-left: 5px;
+    line-height: 50px;
+}
